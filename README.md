@@ -1,5 +1,5 @@
 # english_words
-for the words_dictionary,the words are catagorized into the folowing format below.<br/>
+for the words_dictionary.json,the words are catagorized into the folowing format below.<br/>
 00000000000000000000000000<br/>
 abcdefghijklmnopqrstuvwxyz<br/>
 <br/>
