@@ -3,4 +3,4 @@ for the words_dictionary,the words are catagorized into the folowing format belo
 ab                       z
 ||                       |
 11000000000000000000000001
-thats all.
+thats all
