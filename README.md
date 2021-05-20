@@ -1,6 +1,9 @@
 # english_words
-for the words_dictionary,the words are catagorized into the folowing format below.take for example the follow string,abz<br/>
-ab                       z<br/>
-||                       |<br/>
-11000000000000000000000001<br/>
-thats all.
+for the words_dictionary,the words are catagorized into the folowing format below.<br/>
+00000000000000000000000000<br/>
+abcdefghijklmnopqrstuvwxyz<br/>
+<br/>
+take for example the follow string,abz
+abz=11000000000000000000000001<br/>
+<br/>
+thats all.<br/>
