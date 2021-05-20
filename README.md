@@ -3,7 +3,7 @@ for the words_dictionary,the words are catagorized into the folowing format belo
 00000000000000000000000000<br/>
 abcdefghijklmnopqrstuvwxyz<br/>
 <br/>
-take for example the follow string,abz
+take for example the follow string,abz.
 abz=11000000000000000000000001<br/>
 <br/>
 thats all.<br/>
